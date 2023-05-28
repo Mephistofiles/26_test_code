@@ -6,6 +6,6 @@ public class Git_26 {
     }
 
     private static void take() {
-        System.out.println("решение");
+        System.out.println("другое решение");
     }
 }
